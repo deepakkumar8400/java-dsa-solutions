@@ -68,5 +68,5 @@ This repository contains my Java-based solutions for various Data Structures and
 ---
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
